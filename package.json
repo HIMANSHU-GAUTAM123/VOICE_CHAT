@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "jsonwebtoken": "^9.0.1",
+    "mongoose": "^7.4.1",
+    "mongose": "^0.0.2-security",
+    "twilio": "^4.14.0"
+  }
+}
